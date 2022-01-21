@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x042eb5b58582606711373dbc9b82707408032bf1",
+  "SCAN_LINK": "https://bscscan.com/address/0x042eb5b58582606711373dbc9b82707408032bf1",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Ninja Inu",
+  "SYMBOL": "NINJA",
+  "MAX_SUPPLY": 110,
+  "WEI_COST": 105000000000000000,
+  "DISPLAY_COST": 0.105,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofu NFT",
+  "MARKETPLACE_LINK": "https://tofunft.com",
+  "SHOW_BACKGROUND": true
+}
